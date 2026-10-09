@@ -13,7 +13,7 @@ export default function ThankYouModal({ onClose }) {
         <div style={{ fontSize: 46, marginBottom: 14 }}>✅</div>
         <h2 style={{ fontFamily: "Cormorant Garamond, serif", fontSize: 28, color: "#1C1209", margin: "0 0 14px" }}>Thank You!</h2>
         <p style={{ fontFamily: "Lato, sans-serif", fontSize: 14.5, color: "#555", lineHeight: 1.8, margin: "0 0 28px" }}>
-          Thank you for booking with Sukoon Resorts. Your booking has been placed successfully. For confirmation, our team will call you shortly on the number you provided.
+          Thank you for booking with Dynasty Hotel Skardu. Your booking has been placed successfully. For confirmation, our team will call you shortly on the number you provided.
         </p>
         <button
           onClick={onClose}
